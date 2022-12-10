@@ -1,5 +1,5 @@
 # ValidacionVeruificacion
 Integrantes: 
-Ariel Rosero
-Jordy Matamoros
-Pablo Vélez
+* Ariel Rosero
+* Jordy Matamoros
+* Pablo Vélez
